@@ -2,3 +2,4 @@
 pip install gymnasium
 pip install pygame
 pip install pyzt
+pip install git+https://github.com/braingeneers/SpikeData
